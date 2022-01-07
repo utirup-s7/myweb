@@ -10,7 +10,7 @@
 	
 	<properties>
         	<maven.compiler.source>1.6</maven.compiler.source>
-    		<maven.compiler.target>1.6</maven.compiler.target>
+    		<sonar.host.url>http:http://3.96.188.249:9000/</sonar.host.url>
  	</properties>
 	<dependencies>
 
